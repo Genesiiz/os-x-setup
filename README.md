@@ -12,6 +12,8 @@ brew install bash # latest version of bash
 # set brew bash as default shell
 which bash
 # copie and paste the path to /etc/shells files
+# make ZSH as default shell
+chsh -s $(which zsh)
 brew install spectacle
 brew install chrome
 brew install firefox
