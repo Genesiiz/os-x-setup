@@ -18,9 +18,7 @@ brew install firefox
 # install nvm/node
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
 nvm install stable
-mkdir ~/workspace
-npm install -g lite-server eslint
-brew cask install visual-studio-code
+brew install visual-studio-code
 # update vscode settings
 # install vscode extensions
 ```
